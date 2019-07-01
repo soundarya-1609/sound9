@@ -1,3 +1,3 @@
-numbi,num=map(int,input().split())
-numbi2=numbi**num
-print(numbi2)
+number,num=map(int,input().split())
+number2=number**num
+print(number2)
